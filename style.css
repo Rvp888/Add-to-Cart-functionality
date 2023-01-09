@@ -1,0 +1,22 @@
+
+
+button {
+    cursor: pointer;
+    width: 100px;
+}
+
+#items-div {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+#item {
+    width: 200px;
+    margin-bottom: 20px;
+    border: 0.2px solid rgb(156, 154, 154);
+    padding: 10px;
+}
+
+img {
+    width: 200px;
+}
